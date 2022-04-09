@@ -2,6 +2,6 @@
 
 ## This page is to show my Data Science Project
 
-- https://github.com/icanns/Project_1_-_Data_Collecting
+[Youtube API Data Collecting](https://github.com/icanns/Project_1_-_Data_Collecting)
 - https://github.com/icanns/Project_2_-_Exploratory_Data_Analyses
 - https://github.com/icanns/Project_3_-_Machine_Learning
